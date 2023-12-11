@@ -6,6 +6,7 @@ int main() {
   std::cin >> a;
   std::cout << a - 2;
   std::cout << ":)";
+  // this is a comment
   for (int i = 1; i < 11; i++) {
     std::cout << i << " duck" << std::endl;
   }
